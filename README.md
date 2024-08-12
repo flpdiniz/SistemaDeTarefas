@@ -4,10 +4,15 @@ Esse projeto tem como objetivo da obtenção parcial da aprovação  na matéria
 
 # Membros:
 >Adriano Bertanha (dono do repositório)
+>
 >Cauã Rodrigues Vianna
+>
 >Clara Ricioni Bergamo
+>
 >Felipe Diniz
->Filipe Moura 
+>
+>Filipe Moura
+> 
 # Resumo
 
 Um sistema de gerenciamento de tarefas para equipes é uma ferramenta essencial para otimizar a organização e a execução de projetos colaborativos. Seu objetivo principal é garantir que todas as tarefas sejam atribuídas, monitoradas e concluídas de maneira eficiente, promovendo a transparência, a comunicação e a produtividade dentro da equipe.
